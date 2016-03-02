@@ -10,3 +10,4 @@ public interface View extends com.hotmoka.mvc.View<Model, View, Controller> {
 	// 4: I've changed
 	void onModelChanged();
 }
+// ciao
